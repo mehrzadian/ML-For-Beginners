@@ -100,7 +100,7 @@ These five main types of harms are not mutually exclusive, and a single system c
 
 There are many reasons why a given system behaves unfairly. Social biases, for example, might be reflected in the datasets used to train them. For example, hiring unfairness might have been exacerbated by over reliance on historical data. By using the patterns in resumes submitted to the company over a 10-year period, the model determined that men were more qualified because the majority of resumes came from men, a reflection of past male dominance across the tech industry.
 
-Inadequate data about a certain group of people can be the reason for unfairness. For example, image classifiers a have higher rate of error for images of dark-skinned people because darker skin tones were underrepresented in the data.  
+Inadequate data about a certain group of people can be the reason for unfairness. For example, image classifiers have higher rate of error for images of dark-skinned people because darker skin tones were underrepresented in the data.  
 
 Wrong assumptions made during development cause unfairness too. For example, a facial analysis system intended to predict who is going to commit a crime based on images of people’s faces can lead to damaging assumptions. This could lead to substantial harms for people who are misclassified.
 
